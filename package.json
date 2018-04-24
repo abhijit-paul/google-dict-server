@@ -1,0 +1,21 @@
+{
+  "name": "google-dict-server",
+  "version": "1.0.0",
+  "description": "Dictionary backend using Google's dictionary suggest",
+  "main": "dict-be.js",
+  "scripts": {
+    "start": "node dict-be.js"
+  },
+  "keywords": [
+    "Google",
+    "Dictionary",
+    "Cloud"
+  ],
+  "author": "Abhijit Paul",
+  "license": "MIT",
+  "dependencies": {
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "url": "^0.11.0"
+  }
+}
