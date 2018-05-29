@@ -8,5 +8,4 @@ Uses Google dictionary suggest endpoint to provide just a dictionary search back
 4. Keep using either the url or the search bar to getting dictionary details from Google
 
 # Demo
-You can go to https://google-dict-server-qtaavasazb.now.sh/?q=earth to check out the feature. 
-Alter the q parameter to change search keyword
+![Demo](https://s33.postimg.cc/aatrv31ql/Screen_Shot_2018-05-29_at_10.10.15_PM.png?dl=1)
